@@ -1,0 +1,7 @@
+[package]
+name = "mbuffer"
+version = "0.1.0"
+authors = ["Andrew Houts <ahouts@signet.tv>"]
+
+[dependencies]
+clap = "2.31.2"
